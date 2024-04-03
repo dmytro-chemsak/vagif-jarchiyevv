@@ -71,28 +71,6 @@
 </a>
 </p>
 
-<h3 align="center">Mobile</h3>
-<p align="center">
-  <a href="https://reactnative.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/>
-  </a>
-  <a href="https://android.io/" target="_blank">
-    <img src="https://img.shields.io/badge/android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=black" alt="android"/>
-  </a>
-  <a href="https://www.ios.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ios-663399.svg?style=for-the-badge&logo=ios&logoColor=white" alt="ios" />
-  </a>
-  <a href="https://flutter.io/" target="_blank">
-    <img src="https://img.shields.io/badge/flutter-00D1B2.svg?style=for-the-badge&logo=flutter&logoColor=white"
-      alt="flutter"/>
-  </a>
-  <a href="https://swift.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/swift-8DD6F9.svg?style=for-the-badge&logo=swift&logoColor=black"
-      alt="swift"/>
-  </a>
-  
-</p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
